@@ -1,0 +1,49 @@
+
+---Downloaded files---
+The import files for: Shop were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost:8080/wordpress
+Data file = /home/vikas/opt/lampp/apache2/htdocs/wordpress/wp-content/plugins/sydney-toolbox/demo-content/demo-content-shop.xml
+Widget file = /home/vikas/opt/lampp/apache2/htdocs/wordpress/wp-content/plugins/sydney-toolbox/demo-content/demo-widgets-shop.wie
+Customizer file = /home/vikas/opt/lampp/apache2/htdocs/wordpress/wp-content/plugins/sydney-toolbox/demo-content/demo-customizer-shop.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Seitenleiste : 
+
+Suche - No Title - Widget already exists
+Neueste Beiträge - No Title - Widget already exists
+Neueste Kommentare - No Title - Widget already exists
+Archive - No Title - Widget already exists
+Kategorien - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer 1 : 
+
+Text - About us - Imported
+
+Footer 2 : 
+
+Navigationsmenü - Useful - Imported
+
+Footer 3 : 
+
+Navigationsmenü - Info - Imported
+
+footer-4 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Sydney: Kontakt-Informationen - Get in touch - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
